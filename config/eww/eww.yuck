@@ -60,7 +60,7 @@
 					(circular-progress 	:value 60
 								:class "bar"
                							:thickness 5
-					"100"
+					""
 					)
 				)
 		)
